@@ -3,10 +3,11 @@
 <!-- Анимированный заголовок с неоновым эффектом -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there!;I'm+None;%F0%9F%91%A4+Backend+Developer;%F0%9F%93%8C+17+y.o.+from+Russia" alt="Typing SVG"/>
 
-<!-- Счетчики в ряд (только базовые) -->
+<!-- Счетчики в ряд -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nonetgit&label=Profile+Views&color=00B4FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/nonetgit?label=Followers&style=for-the-badge&color=00B4FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00B4FF&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnonetgit&style=for-the-badge&logo=github" alt="Repositories"/>
 </p>
 
 <!-- Декоративная линия с градиентом -->
@@ -45,19 +46,20 @@
 <!-- Неоновая линия -->
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="10" alt="neon divider"/>
 
-## 📊 Топ языков
+## 📊 Статистика языков
 
-<!-- Топ языков в стиле joopeter/python/sql -->
+<!-- Автоматическая статистика языков -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D2D2D" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=2D2D2D" alt="JSON"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=&card_width=500" alt="Top Languages" width="70%"/>
+</p>
+
+<!-- Детальный анализ языков в реальном времени -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Languages Details" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white&labelColor=2D2D2D" alt="YAML"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2D2D2D" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=2D2D2D" alt="Bash"/>
+  <small>📊 Автоматический подсчет на основе всех публичных репозиториев • Обновляется ежедневно</small>
 </p>
 
 <!-- Неоновая линия -->
@@ -73,8 +75,8 @@
   <a href="mailto:zelezovdaniil9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D" alt="Email" height="45"/>
   </a>
-  <a href="https://gitflic.ru/user/nonet2t" target="_blank">
-    <img src="https://img.shields.io/badge/GitFlic-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D" alt="GitFlic" height="45"/>
+  <a href="https://github.com/nonetgit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="GitHub" height="45"/>
   </a>
 </p>
 
@@ -82,7 +84,7 @@
 <p align="center">
   <code>📧 zelezovdaniil9@gmail.com</code> • 
   <code>💬 @Nemoyttt</code> • 
-  <code>🔗 gitflic.ru/user/nonet2t</code>
+  <code>🐙 github.com/nonetgit</code>
 </p>
 
 <!-- Живой футер с анимацией -->
