@@ -3,12 +3,11 @@
 <!-- Анимированный заголовок с неоновым эффектом -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there!;I'm+None;%F0%9F%91%A4+Backend+Developer;%F0%9F%93%8C+17+y.o.+from+Russia" alt="Typing SVG"/>
 
-<!-- Счетчики в ряд -->
+<!-- Счетчики в ряд - РАБОЧИЕ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=none&label=Profile+Views&color=00B4FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/none?label=Followers&style=for-the-badge&color=00B4FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/none?label=Stars&style=for-the-badge&color=00B4FF" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/last-commit/none/none?label=Last+Update&style=for-the-badge&color=00B4FF" alt="Last update" />
+  <img src="https://komarev.com/ghpvc/?username=nonetgit&label=Profile+Views&color=00B4FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nonetgit?label=Followers&style=for-the-badge&color=00B4FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/nonetgit?label=Stars&style=for-the-badge&color=00B4FF" alt="GitHub stars" />
 </p>
 
 <!-- Декоративная линия с градиентом -->
@@ -39,9 +38,9 @@
 
 <!-- Технологии с анимацией при наведении (только Python, PostgreSQL, Git) -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D&logoWidth=20" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D2D2D&logoWidth=20" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D&logoWidth=20" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D2D2D" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D" alt="Git"/></a>
 </p>
 
 <!-- Дополнительная визуализация стеков в виде карточек -->
@@ -65,44 +64,16 @@
   </tr>
 </table>
 
-<!-- Статистика GitHub в два ряда для адаптивности -->
+<!-- Только базовая статистика GitHub (рабочая) -->
 ## 📊 GitHub статистика
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=none&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=none&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=none&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Языки программирования (акцент на Python) -->
-## 📈 Языки в проектах
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=none&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,javascript" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nonetgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,javascript" width="48%" alt="Top Languages" />
 </p>
 
-<!-- Метрики активности -->
-## 🏆 Достижения
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=none&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%"/>
-</p>
-
-<!-- Счетчики репозиториев -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00B4FF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnone&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=00B4FF&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnone&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=00B4FF&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnone&style=for-the-badge&logo=github"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonetgit&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <!-- Неоновая линия -->
@@ -135,30 +106,34 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/database.png" width="40"/><br/>
-      <b>PostgreSQL</b><br/>
-      <small>Оптимизация запросов</small>
-    </td>
-    <td align="center">
+    <td align="center" width="200">
       <img src="https://img.icons8.com/fluency/48/000000/python.png" width="40"/><br/>
       <b>Python</b><br/>
       <small>Backend разработка</small>
     </td>
-    <td align="center">
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/48/000000/database.png" width="40"/><br/>
+      <b>PostgreSQL</b><br/>
+      <small>Проектирование БД</small>
+    </td>
+    <td align="center" width="200">
       <img src="https://img.icons8.com/fluency/48/000000/git.png" width="40"/><br/>
       <b>Git</b><br/>
-      <small>CI/CD процессы</small>
+      <small>Версионный контроль</small>
     </td>
   </tr>
 </table>
 
-<!-- Живой футер с анимацией -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=🐍+Python+developer;🗄️+PostgreSQL+enthusiast;🔧+Git+masters;🚀+Open+to+collaboration" alt="Footer typing"/>
-
-<!-- Счетчик времени с момента последнего обновления -->
+<!-- Простой счетчик репозиториев (рабочий) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Update-2026--02--21-00B4FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00B4FF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnonetgit&style=for-the-badge&logo=github"/>
+</p>
+
+<!-- Живой футер с анимацией -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=🐍+Python+developer;🗄️+PostgreSQL+enthusiast;🔧+Git+user;🚀+Open+to+collaboration" alt="Footer typing"/>
+
+<!-- Информация о времени -->
+<p align="center">
   <img src="https://img.shields.io/badge/Timezone-MSK%20(UTC%2B3)-00B4FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-00B4FF?style=flat-square"/>
 </p>
@@ -171,7 +146,7 @@
   <small>✨ PostgreSQL • Git • Clean Code ✨</small>
 </p>
 
-<!-- Анимированная волна в футере с Python-цветами -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:316192,100:F05032&height=120&section=footer&fontSize=20&animation=twinkling" width="100%" alt="footer wave"/>
+<!-- Анимированная волна в футере -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer&fontSize=20" width="100%" alt="footer wave"/>
 
 </div>
