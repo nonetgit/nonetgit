@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++I'm+None;%F0%9F%91%A4++Developer;%F0%9F%93%8C++17+y.o.+from+Russia" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi+there!;I'm+None;%F0%9F%91%A4+Backend+Developer;%F0%9F%93%8C+17+y.o.+from+Russia" alt="Typing SVG"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="divider" style="height: 2px;"/>
 
