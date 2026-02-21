@@ -45,16 +45,6 @@
 <!-- Неоновая линия -->
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="10" alt="neon divider"/>
 
-## 📊 Топ языков
-
-<!-- Круговая диаграмма (интерактивная) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="70%" alt="Top Languages Donut"/>
-</p>
-
-<!-- Неоновая линия -->
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="10" alt="neon divider"/>
-
 ## 📫 Контакты
 
 <p align="center">
