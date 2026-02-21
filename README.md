@@ -45,20 +45,11 @@
 <!-- Неоновая линия -->
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="10" alt="neon divider"/>
 
-## 📊 Интерактивный топ языков
+## 📊 Топ языков
 
 <!-- Круговая диаграмма (интерактивная) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="70%" alt="Top Languages Donut"/>
-</p>
-
-<!-- Детальный список -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonetgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="70%" alt="Top Languages Compact"/>
-</p>
-
-<p align="center">
-  <small>📊 Статистика на основе всех публичных репозиториев</small>
 </p>
 
 <!-- Неоновая линия -->
