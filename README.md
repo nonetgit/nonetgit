@@ -61,8 +61,8 @@
 
 <!-- Быстрые ссылки -->
 <p align="center">
-  <code>📧 zelezovdaniil9@gmail.com</code> • 
   <code>💬 @Nemoyttt</code> • 
+  <code>📧 zelezovdaniil9@gmail.com</code> • 
   <code>🐙 github.com/nonetgit</code>
 </p>
 
