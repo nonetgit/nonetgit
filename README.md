@@ -59,13 +59,6 @@
   </a>
 </p>
 
-<!-- Быстрые ссылки -->
-<p align="center">
-  <code>💬 @Nemoyttt</code> • 
-  <code>📧 zelezovdaniil9@gmail.com</code> • 
-  <code>🐙 github.com/nonetgit</code>
-</p>
-
 <!-- Живой футер -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=🐍+Python+developer;🗄️+PostgreSQL+enthusiast;🔧+Git+user;🚀+Open+to+collaboration" alt="Footer typing"/>
 
